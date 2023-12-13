@@ -2,7 +2,7 @@
 
     ## Video Demo:  https://youtu.be/oSPps_VYfN8
 
-    ## Developer:
+    ## Developer
        Xuan Li from Cincinati, Ohio, USA
 
     ## Description:
@@ -37,7 +37,7 @@
         - `random`: Used for generating random numbers and selecting operators.
         - `time`: Used for measuring the time taken to complete the challenge.
 
-    ## Improvements:
+    ## Improvements
     There are a few possible improvements, such as
     1. Expand to fraction and decimal calculations
     2. Create a login system to record players' historical data to show progress
@@ -47,6 +47,9 @@
     6. Allow users to select specific ranges they want to include in the game (e.g., min and max operands).
     7. Consider using a graphical interface (GUI) for a more engaging and user-friendly experience.
 
+    ## Reference
+    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+    
 MIT License
 Copyright (c) [2023] [X.Li]
 
